@@ -1,0 +1,41 @@
+
+park_n_lamp1.png
+size: 77,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dt_ylc2_dengguang
+  rotate: true
+  xy: 2, 69
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+park_n_lamp1_1
+  rotate: false
+  xy: 2, 177
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+park_n_lamp1_2
+  rotate: true
+  xy: 2, 228
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+park_n_lamp1_3
+  rotate: false
+  xy: 2, 124
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+park_n_lamp1_4
+  rotate: false
+  xy: 2, 2
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1

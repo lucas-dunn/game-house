@@ -1,0 +1,27 @@
+
+park_n_castle_ferriswheel.png
+size: 490,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dt_ylc_mtl1
+  rotate: false
+  xy: 367, 49
+  size: 121, 125
+  orig: 121, 125
+  offset: 0, 0
+  index: -1
+dt_ylc_mtl2
+  rotate: false
+  xy: 234, 34
+  size: 131, 140
+  orig: 131, 140
+  offset: 0, 0
+  index: -1
+park_n_castle_ferriswheel
+  rotate: true
+  xy: 2, 2
+  size: 172, 230
+  orig: 172, 243
+  offset: 0, 13
+  index: -1

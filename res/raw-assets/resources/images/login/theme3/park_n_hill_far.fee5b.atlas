@@ -1,0 +1,13 @@
+
+park_n_hill_far.png
+size: 984,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+park_n_hill_far
+  rotate: false
+  xy: 2, 2
+  size: 980, 155
+  orig: 980, 170
+  offset: 0, 7
+  index: -1

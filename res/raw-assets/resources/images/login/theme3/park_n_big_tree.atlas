@@ -1,0 +1,55 @@
+
+park_n_big_tree.png
+size: 454,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+park_n_big_tree_1
+  rotate: false
+  xy: 364, 4
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+park_n_big_tree_2
+  rotate: true
+  xy: 2, 3
+  size: 71, 98
+  orig: 71, 98
+  offset: 0, 0
+  index: -1
+park_n_big_tree_3
+  rotate: true
+  xy: 102, 5
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+park_n_big_tree_4
+  rotate: true
+  xy: 289, 2
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+park_n_big_tree_5
+  rotate: true
+  xy: 408, 13
+  size: 24, 44
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+park_n_big_tree_6
+  rotate: true
+  xy: 188, 21
+  size: 53, 99
+  orig: 53, 99
+  offset: 0, 0
+  index: -1
+park_n_big_tree_7
+  rotate: true
+  xy: 364, 39
+  size: 35, 75
+  orig: 41, 85
+  offset: 0, 10
+  index: -1

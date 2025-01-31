@@ -1,0 +1,55 @@
+
+park_n_castel_samll.png
+size: 578,465
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dt_ylc2_dengguang
+  rotate: false
+  xy: 523, 199
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+dt_ylc_bo1
+  rotate: false
+  xy: 478, 26
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+park_n_castle_small
+  rotate: false
+  xy: 2, 2
+  size: 474, 461
+  orig: 474, 461
+  offset: 0, 0
+  index: -1
+park_n_castle_small_balloon
+  rotate: true
+  xy: 478, 141
+  size: 115, 43
+  orig: 115, 43
+  offset: 0, 0
+  index: -1
+park_n_castle_small_light1
+  rotate: false
+  xy: 478, 361
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+park_n_castle_small_light2
+  rotate: false
+  xy: 478, 258
+  size: 94, 101
+  orig: 94, 101
+  offset: 0, 0
+  index: -1
+park_n_castle_small_tree
+  rotate: false
+  xy: 478, 45
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1

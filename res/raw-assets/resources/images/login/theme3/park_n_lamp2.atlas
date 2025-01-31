@@ -1,0 +1,13 @@
+
+park_n_lamp2.png
+size: 29,35
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+park_n_lamp2
+  rotate: false
+  xy: 2, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1

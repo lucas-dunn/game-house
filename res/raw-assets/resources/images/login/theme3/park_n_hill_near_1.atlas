@@ -1,0 +1,111 @@
+
+park_n_hill_near_1.png
+size: 753,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dt_ylc2_dao1
+  rotate: false
+  xy: 2, 4
+  size: 599, 324
+  orig: 599, 324
+  offset: 0, 0
+  index: -1
+dt_ylc2_dengguang
+  rotate: false
+  xy: 687, 173
+  size: 53, 57
+  orig: 53, 57
+  offset: 0, 0
+  index: -1
+dt_ylc2_shu1
+  rotate: true
+  xy: 661, 4
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+dt_ylc2_shu2
+  rotate: true
+  xy: 704, 86
+  size: 52, 18
+  orig: 52, 18
+  offset: 0, 0
+  index: -1
+dt_ylc2_shu3
+  rotate: true
+  xy: 661, 75
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+dt_ylc2_shu4
+  rotate: false
+  xy: 696, 140
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+dt_ylc2_shu5
+  rotate: true
+  xy: 649, 131
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+dt_ylc2_shu6
+  rotate: false
+  xy: 603, 2
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+dt_ylc2_shu7
+  rotate: true
+  xy: 661, 27
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+dt_ylc2_shu8
+  rotate: false
+  xy: 603, 130
+  size: 44, 111
+  orig: 44, 111
+  offset: 0, 0
+  index: -1
+dt_ylc2_yezi1
+  rotate: true
+  xy: 603, 52
+  size: 76, 56
+  orig: 76, 56
+  offset: 0, 0
+  index: -1
+dt_ylc2_yezi2
+  rotate: false
+  xy: 649, 168
+  size: 36, 73
+  orig: 36, 73
+  offset: 0, 0
+  index: -1
+dt_ylc_bo1
+  rotate: true
+  xy: 724, 86
+  size: 52, 17
+  orig: 52, 17
+  offset: 0, 0
+  index: -1
+park_hill_near_chair
+  rotate: true
+  xy: 692, 232
+  size: 96, 59
+  orig: 96, 59
+  offset: 0, 0
+  index: -1
+park_hill_near_umbrella
+  rotate: false
+  xy: 603, 243
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
